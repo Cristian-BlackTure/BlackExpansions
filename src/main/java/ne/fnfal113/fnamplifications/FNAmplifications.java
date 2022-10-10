@@ -45,10 +45,10 @@ public final class FNAmplifications extends JavaPlugin implements SlimefunAddon 
         new Metrics(this, 13219);
 
         getLogger().info("************************************************************");
-        getLogger().info("*         FN Amplifications - Created by FN_FAL113         *");
+        getLogger().info("*                    BlackExpansions                       *");
         getLogger().info("*         Add me on discord if there are any issues        *");
-        getLogger().info("*          FN_FAL#7779 or join SF Addon Community          *");
-        getLogger().info("*                https://discord.gg/SqD3gg5SAU             *");
+        getLogger().info("*           BlackTure Team and BLackOUT Company.           *");
+        getLogger().info("*                                                          *");
         getLogger().info("************************************************************");
 
         setVaultIntegration(this);
