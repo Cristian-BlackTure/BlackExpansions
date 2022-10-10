@@ -1,9 +1,9 @@
-name: FNAmplifications
+name: BlackTureExpansions
 version: '${project.version}'
 main: ne.fnfal113.fnamplifications.FNAmplifications
 api-version: 1.16
 authors: [ FN_FAL113 ]
-description: Custom Addon that includes my other addons for slimefun
+description: hello. Welcome to brain damage zone
 website: https://github.com/FN-FAL113
 depend: [Slimefun]
 softdepend:
@@ -12,7 +12,7 @@ softdepend:
   - Vault
 commands:
   fngear:
-    description: Command for checking FN Gears progress
+    description: MDKDSBFIWNURKSBSKDBIWBD send brain help I am dying xxxxxxddddddd
     default: true
     usage: /<command>
   fngear.levelupgears:
